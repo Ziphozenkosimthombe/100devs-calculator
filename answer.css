@@ -12,7 +12,7 @@ body{
     display:flex;
     justify-content: center;
     align-content: center;
-    height:65vh;
+    height:100%;
 }
 
 .calculator{
